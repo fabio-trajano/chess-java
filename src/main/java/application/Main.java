@@ -12,7 +12,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         ChessMatch chessMatch = new ChessMatch();
-        
+        UI.printBoard(chessMatch.getPieces());
+
         sc.close();
     }
 }
