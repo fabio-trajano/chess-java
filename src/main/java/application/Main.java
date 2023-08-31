@@ -2,6 +2,7 @@ package application;
 
 import boardgame.Board;
 import boardgame.Position;
+import chess.ChessMatch;
 
 import java.util.Scanner;
 
@@ -10,12 +11,8 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        Position pos = new Position(3,5);
-
-        System.out.println(pos);
-
-        Board board = new Board(8,8);
-
+        ChessMatch chessMatch = new ChessMatch();
+        
         sc.close();
     }
 }
