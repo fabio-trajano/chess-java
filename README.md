@@ -23,9 +23,8 @@ This is a simple console-based chess game application developed in Java.
 
 ## How to Play
 
-The game is played in the console. Each player enters their move in the format `e2 e4`, where `e2` is the starting position and `e4` is the end position.
+The game is played in the console. Each player enters their move in the format `e2` `e4`, where `e2` is the starting piece position and `e4` is the end position.
 
 ## Future Improvements
 
-- Add a graphical user interface.
-- Implement a player vs. AI mode.
+- Implement player vs. AI mode.
