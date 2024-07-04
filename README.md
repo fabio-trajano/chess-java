@@ -19,7 +19,7 @@ This is a simple console-based chess game application developed in Java.
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Run `mvn clean install` to build the project.
-4. Run `java -cp target/chess-java-1.0-SNAPSHOT.jar application.UI` to start the game.
+4. Run `java -cp target/chess-java-1.0-SNAPSHOT.jar application.Main` to start the game.
 
 ## How to Play
 
