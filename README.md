@@ -1,10 +1,10 @@
-# Chess Game Application
+# Chess Game App
 
 This is a simple console-based chess game application developed in Java.
 
 ## Features
 
-- Complete chess rules: All the moves for each type of piece (pawn, rook, knight, bishop, queen, king) are implemented, including en passant, castling, promotion.
+- Complete chess rules: All the moves for each type of piece (pawn, rook, knight, bishop, queen, king) are implemented, including en passant, castling, and promotion.
 - Check and Checkmate: The application checks for check and checkmate situations.
 - Captured pieces: The application keeps track of all the pieces the player has captured.
 - Board printing: The board is printed in the console after each move.
@@ -25,6 +25,3 @@ This is a simple console-based chess game application developed in Java.
 
 The game is played in the console. Each player enters their move in the format `e2` `e4`, where `e2` is the starting piece position and `e4` is the end position.
 
-## Future Improvements
-
-- Implement player vs. AI mode.
